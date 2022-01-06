@@ -1,4 +1,4 @@
-baseURL = 'https://luillo1.github.io'
+baseURL = 'https://luillo1.github.io/Portfolio'
 languageCode = 'en-us'
 title = 'Stuff that Luis does'
 theme = 'hugo-theme-monochrome'
