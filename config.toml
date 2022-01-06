@@ -1,0 +1,7 @@
+baseURL = 'http://luillo.com/'
+languageCode = 'en-us'
+title = 'Stuff that Luis does'
+theme = 'hugo-theme-monochrome'
+
+[params]
+footer = "Copyright © 2021 by luillo"
